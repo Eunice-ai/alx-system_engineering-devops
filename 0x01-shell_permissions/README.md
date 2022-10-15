@@ -22,3 +22,19 @@ Note: depending on the user, you will get a different output
 [`3-new_owner`](3-new_owner)
 
 Write a script that changes the owner of the file hello to the user betty
+
+# Tasks 4
+[`4-empty`](4-empty)
+Write a script that creates an empty file called hello
+
+# Tasks 5
+[`5-execute`](5-execute)
+
+Write a script that adds execute permission to the owner of the file hello
+* The file hello will be in the working directory
+
+#Tasks 6
+[`6-multiple_permissions`](6-multiple_permissions)
+
+Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
+* The file hello will be in the working directory
